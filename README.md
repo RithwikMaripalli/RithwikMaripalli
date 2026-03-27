@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Rithwik
 
-<!--
-**RithwikMaripalli/RithwikMaripalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ECE undergraduate | Embedded Systems & ML enthusiast**  
+Hyderabad, Telangana, India · Building small but real projects with C, Python, and ML.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+
+- **Languages:** C, Embedded C, C++, Python, Bash
+- **Embedded:** Arduino, STM32 (simulator), sensor interfacing
+- **ML / Data:** NumPy, pandas, scikit‑learn, basic LLMs
+- **Tools:** Git, Linux, VS Code
+
+---
+
+### 📌 Featured Projects
+
+---
+
+### 📫 How to reach me
+
+- 📩 Email: maripallirithwik@gmail.com
+- 🔗 LinkedIn: www.linkedin.com/in/rithwik-maripalli
+
+
+---
+
+### 🚀 Current Focus
+
+- Clean lab‑style projects with good READMEs  
+- Depth > quantity
