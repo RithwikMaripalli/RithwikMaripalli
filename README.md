@@ -7,14 +7,10 @@ Hyderabad, Telangana, India · Building small but real projects with C, Python, 
 
 ### 🛠️ Tech Stack
 
-- **Languages:** C, Embedded C, C++, Python, Bash
+- **Languages:** C, Embedded C, C++, Python
 - **Embedded:** Arduino, STM32 (simulator), sensor interfacing
 - **ML / Data:** NumPy, pandas, scikit‑learn, basic LLMs
 - **Tools:** Git, Linux, VS Code
-
----
-
-### 📌 Featured Projects
 
 ---
 
