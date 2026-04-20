@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Rithwik
 
 **ECE undergraduate | Embedded Systems & ML enthusiast | MCUs and sensor fusion**
+
 Hyderabad, Telangana, India · Building small but real projects with C, Python, and ML.
 
 ---
