@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Rithwik
+#  Hi, I'm Rithwik
 
 **ECE undergraduate | Embedded Systems & ML enthusiast | MCUs and sensor fusion**
 
@@ -6,7 +6,7 @@ Hyderabad, Telangana, India · Building small but real projects with C, Python, 
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 - **Languages:** C, Embedded C, C++, Python
 - **Embedded:** Arduino, STM32 (simulator), sensor interfacing
@@ -15,7 +15,7 @@ Hyderabad, Telangana, India · Building small but real projects with C, Python, 
 
 ---
 
-### 📫 How to reach me
+###  How to reach me
 
 - 📩 Email: maripallirithwik@gmail.com
 - 🔗 LinkedIn: www.linkedin.com/in/rithwik-maripalli
@@ -23,7 +23,7 @@ Hyderabad, Telangana, India · Building small but real projects with C, Python, 
 
 ---
 
-### 🚀 Current Focus
+###  Current Focus
 
 - Clean lab‑style projects with good READMEs  
 - Depth > quantity
