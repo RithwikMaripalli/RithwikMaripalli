@@ -17,8 +17,8 @@ Hyderabad, Telangana, India · Building small but real projects with C, Python, 
 
 ###  How to reach me
 
-- 📩 Email: maripallirithwik@gmail.com
-- 🔗 LinkedIn: www.linkedin.com/in/rithwik-maripalli
+-  Email: maripallirithwik@gmail.com
+-  LinkedIn: www.linkedin.com/in/rithwik-maripalli
 
 
 ---
